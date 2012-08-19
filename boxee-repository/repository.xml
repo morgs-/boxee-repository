@@ -1,0 +1,6 @@
+<repository>
+        <id>com.github.morgs-.boxee-repository</id>
+        <url>https://github.com/morgs-/unofficial_rdio_on_boxee/tree/master/boxee-repository</url>
+        <name>Morgs- Custom Repository</name>
+        <description>Test repository for boxee development</description>
+</repository>
