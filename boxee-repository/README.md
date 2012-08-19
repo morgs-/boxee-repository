@@ -1,0 +1,1 @@
+This repository is for development of boxee apps
